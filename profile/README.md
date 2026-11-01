@@ -10,3 +10,5 @@
 
 # Ссылки
 **Telegram: <a href="https://glitifyforum.t.me/">форум</a>**
+
+<div align="center">© 2026 LetMeow LLC</div>
