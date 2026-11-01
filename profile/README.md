@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/350618271?s=200&v=4" alt="Glitify Logo" />
-  <h1>Glitify</h1>
-</div>
-Glitify — более улучшенная версия scratch: больше расширений, звуков, костюмов, персонажей и функций!
-<br><br>
-Сотрудничество: letmeowllc@gmail.com<br>
-Организация, владеющая сервисом: <a href="https://github.com/letmeowllc">LetMeow</a><br>
-Присоединяйся к нам!
+# <img src="/assets/glogo.png" alt="Логотип Glitify" align="right" width="20%"> Glitify
+
+**Glitify** основан на **DashBlocks**, **Turbowarp** и других модификаций **Scratch**. Он добавляет новые блоки, расширения, костюмы, звуки, персонажи и функции!
+
+Добро пожаловать в **Glitify**! --> <a href="https://glitifyorg.github.io">**Перейти на сайт**</a>
